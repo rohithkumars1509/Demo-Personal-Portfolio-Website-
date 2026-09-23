@@ -2,7 +2,7 @@
 
 A simple personal portfolio website created as a **learning project** to practice web development and understand how portfolio websites are structured.
 
-> 🚧 This is a demo project created for educational and practice purposes.
+#🚧 THE INDEX.HTML AND STYLE.CSS FILES HAVE THE CODE
 
 ## ✨ Features
 
