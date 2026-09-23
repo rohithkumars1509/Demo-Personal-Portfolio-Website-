@@ -21,9 +21,3 @@ A simple personal portfolio website created as a **learning project** to practic
 - JavaScript
 - Git & GitHub
 
-## 📸 Preview
-
-Add a screenshot of your website here:
-
-```text
-![Portfolio Preview](./assets/preview.png)
